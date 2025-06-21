@@ -3,7 +3,7 @@
 
 # 🚀 Power BI Sales Dashboard – Adventure Works
 
-![Dashboard Preview](./path-to-your-screenshot.png)
+![Dashboard Preview](https://github.com/Ankar-G/AdventureWorks_Sales_Analyze_PowerBI/blob/main/Screenshot%202025-06-21%20203622.png)
 
 Welcome to my end-to-end **Sales Dashboard** project, developed during my internship at **Aivariant**. This dynamic dashboard is built using **Power BI** and provides a comprehensive view of sales insights for the Adventure Works dataset.
 
